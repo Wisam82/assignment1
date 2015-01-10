@@ -6,5 +6,6 @@ Hobbies : I live to cook and go to the gym!
 
 Programming Background : I finished python course with Udacity.com
 
+My favorite project in CS165 : Word Game Guess project !
 
 
