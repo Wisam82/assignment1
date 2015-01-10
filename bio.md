@@ -8,4 +8,5 @@ Programming Background : I finished python course with Udacity.com
 
 My favorite project in CS165 : Word Game Guess project !
 
+Places I want to visit : France , India and China 
 
