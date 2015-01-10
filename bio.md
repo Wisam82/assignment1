@@ -10,3 +10,4 @@ My favorite project in CS165 : Word Game Guess project !
 
 Places I want to visit : France , India and China 
 
+What do i want to do in programming : I want to work with a software company!
